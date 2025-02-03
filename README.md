@@ -27,3 +27,5 @@ Además, he añadido un **spinner de carga** de [SpinKit](https://tobiasahlin.co
 ✔️ Spinner de carga para mejorar la UX  
 
 ## 📷 Captura de Pantalla
+![Vista previa del proyecto](public/capApp.png)
+
